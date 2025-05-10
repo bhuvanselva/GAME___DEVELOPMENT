@@ -24,8 +24,8 @@ Step 7 : Stop the program.
 
 ## Program :
 ```
-Developed By: Simon Malachi S
-Register no: 212224040318
+Developed By: BHUVANESHWARI S
+Register no: 212222220008
 ```
 
 ```
